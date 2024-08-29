@@ -30,8 +30,6 @@ The table below is a record of all the ownable (digital and/or physical) artwork
 | OVE  | Variable Edition, open ( 1/∞ )    | V.E.     |
 | E    | Edition, limited ( 1/x )          | 1/x      |
 | OE   | Edition, open ( 1/∞ )             | O.E.     |
-| O    | Original                          |          |
-| C    | Comission                         |          |
 | W    | Work for Hire                     |          |
 
 ### Edition vs Variable Edition
