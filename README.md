@@ -6,7 +6,8 @@ The table below is a record of all the ownable (digital and/or physical) artwork
 
 | Series  | Collection        | Gallery    | Curation           | Date       | Count | Type | Medium | Details                           |
 | ------- | ----------------- | ---------- | ------------------ | ---------- | ----- | ---- | ------ | --------------------------------- |
-| Entropy | Alpha             |            |                    | 2024-08-20 | 10    | AP   | Print  | [link](2024/entropy-alpha.md)     |
+| Entropy | Alpha             |            |                    | TBD        | 0     | VE   | Print  | [link](2024/entropy-alpha.md)     |
+| Entropy | Alpha             |            |                    | 2024-08-20 | 12    | AP   | Print  | [link](2024/entropy-alpha.md)     |
 |         | WaveShapes        | Proof      | Diamond Exhibition | 2023-04-27 | 232   | VE   | NFT    | [link](2023/waveshapes.md)        |
 |         | Erratic           | Art Blocks | Playground         | 2022-11-07 | 400   | VE   | NFT    | [link](2022/erratic.md)           |
 |         | Contractions      | Art Blocks | Art Blocks x Pace  | 2022-10-08 | 280   | W    | NFT    | [link](2022/contractions.md)      |

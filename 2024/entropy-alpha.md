@@ -25,9 +25,36 @@
 
 **git:** `main | 4adff67b450d9da653e7229f97f329a540142716`
 
-**medium:** Epson Ultra Premium Photo Luster, 6x8 print on 8x10
+**medium:** Epson Ultra Premium Photo Luster, 6x8 print on 8.5x11 (cut to 8x10)
 
-## Installations
+### 2024-10-15
+
+**seeds:**
+
+```
+0x3a6de14998dc122d2bde9b5f5d08297beb78ef7b1ae0ee3cc7bafea0696bf7d2
+0xcee7b41451fb6083b95fc6cc6e3177b23f441518048471e97cb942b36189fb25
+```
+
+**git:** `main | 4adff67b450d9da653e7229f97f329a540142716`
+
+**medium:** Epson Ultra Premium Photo Luster, 16x20 print on 17x22 paper
+
+### 2024-11-09
+
+**seeds:**
+
+```
+0xefe60331a530c1f3957de728ed5169400e351eac4e7800d97431123b617317fa
+0x35195ec1c0c3e937306f294cb8640fa96c0c90ee567d73d8d391ee79c04de1c2
+0x413c709b713d62e5aa11d5049d8934a125969ad9e20cf992680f19634ad9eb7f
+```
+
+**git:** `main | 4adff67b450d9da653e7229f97f329a540142716`
+
+**medium:** Epson Ultra Premium Photo Luster, 11x14 on 13x19 paper (cut to 12x16)
+
+## Digital Installs
 
 ### 2024-09-09 - Artlume.io
 
