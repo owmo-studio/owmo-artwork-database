@@ -6,6 +6,50 @@
 
 ## Artist Proofs
 
+### 2024-11-12
+
+**seeds:**
+
+```
+0x1e02762230a630a35a6bae11b1595aef4a01122a6565371a9a3b57d0263aaee7
+0x1e3511b2185adea52a42501c4a4051e8d73a6fe9d2f48e6f4de40d7a5c1f5775
+0x2ec6cce30c4fda020e8cc1ed1262becfddef9322ff2649820dbf9034d789252e
+0x4b83469a855563656c2a5a742ab33d725241bd0f32d172c992f7b63998b1daf2
+0x6a0cb5c846cb2af7bfeef4c4e5715122e34ca6ea67bedf18bd5f6c30fedca504
+0x7b6779360698c44b0d675c77b613613a8cafb9f84b3fa6e7e43db19b64a02552
+```
+
+**git:** `main | 4adff67b450d9da653e7229f97f329a540142716`
+
+**medium:** Epson Ultra Premium Photo Luster, 5x7s (cut from 8.5x11)
+
+### 2024-11-09
+
+**seeds:**
+
+```
+0xefe60331a530c1f3957de728ed5169400e351eac4e7800d97431123b617317fa
+0x35195ec1c0c3e937306f294cb8640fa96c0c90ee567d73d8d391ee79c04de1c2
+0x413c709b713d62e5aa11d5049d8934a125969ad9e20cf992680f19634ad9eb7f
+```
+
+**git:** `main | 4adff67b450d9da653e7229f97f329a540142716`
+
+**medium:** Epson Ultra Premium Photo Luster, 11x14 on 13x19 paper (cut to 12x16)
+
+### 2024-10-15
+
+**seeds:**
+
+```
+0x3a6de14998dc122d2bde9b5f5d08297beb78ef7b1ae0ee3cc7bafea0696bf7d2
+0xcee7b41451fb6083b95fc6cc6e3177b23f441518048471e97cb942b36189fb25
+```
+
+**git:** `main | 4adff67b450d9da653e7229f97f329a540142716`
+
+**medium:** Epson Ultra Premium Photo Luster, 16x20 print on 17x22 paper
+
 ### 2024-08-20
 
 **seeds:**
@@ -26,33 +70,6 @@
 **git:** `main | 4adff67b450d9da653e7229f97f329a540142716`
 
 **medium:** Epson Ultra Premium Photo Luster, 6x8 print on 8.5x11 (cut to 8x10)
-
-### 2024-10-15
-
-**seeds:**
-
-```
-0x3a6de14998dc122d2bde9b5f5d08297beb78ef7b1ae0ee3cc7bafea0696bf7d2
-0xcee7b41451fb6083b95fc6cc6e3177b23f441518048471e97cb942b36189fb25
-```
-
-**git:** `main | 4adff67b450d9da653e7229f97f329a540142716`
-
-**medium:** Epson Ultra Premium Photo Luster, 16x20 print on 17x22 paper
-
-### 2024-11-09
-
-**seeds:**
-
-```
-0xefe60331a530c1f3957de728ed5169400e351eac4e7800d97431123b617317fa
-0x35195ec1c0c3e937306f294cb8640fa96c0c90ee567d73d8d391ee79c04de1c2
-0x413c709b713d62e5aa11d5049d8934a125969ad9e20cf992680f19634ad9eb7f
-```
-
-**git:** `main | 4adff67b450d9da653e7229f97f329a540142716`
-
-**medium:** Epson Ultra Premium Photo Luster, 11x14 on 13x19 paper (cut to 12x16)
 
 ## Digital Installs
 
