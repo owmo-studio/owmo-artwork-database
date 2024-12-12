@@ -33,6 +33,10 @@
 
 ### 2024-11-12
 
+**git:** `main | 4adff67b450d9da653e7229f97f329a540142716`
+
+**medium:** Epson Ultra Premium Photo Luster, 5x7s (cut from 8.5x11)
+
 **seeds:**
 
 ```
@@ -44,11 +48,11 @@
 0x7b6779360698c44b0d675c77b613613a8cafb9f84b3fa6e7e43db19b64a02552
 ```
 
+### 2024-11-09
+
 **git:** `main | 4adff67b450d9da653e7229f97f329a540142716`
 
-**medium:** Epson Ultra Premium Photo Luster, 5x7s (cut from 8.5x11)
-
-### 2024-11-09
+**medium:** Epson Ultra Premium Photo Luster, 11x14 on 13x19 paper (cut to 12x16)
 
 **seeds:**
 
@@ -58,11 +62,11 @@
 0x413c709b713d62e5aa11d5049d8934a125969ad9e20cf992680f19634ad9eb7f
 ```
 
+### 2024-10-15
+
 **git:** `main | 4adff67b450d9da653e7229f97f329a540142716`
 
-**medium:** Epson Ultra Premium Photo Luster, 11x14 on 13x19 paper (cut to 12x16)
-
-### 2024-10-15
+**medium:** Epson Ultra Premium Photo Luster, 16x20 print on 17x22 paper
 
 **seeds:**
 
@@ -71,11 +75,11 @@
 0xcee7b41451fb6083b95fc6cc6e3177b23f441518048471e97cb942b36189fb25
 ```
 
+### 2024-08-20
+
 **git:** `main | 4adff67b450d9da653e7229f97f329a540142716`
 
-**medium:** Epson Ultra Premium Photo Luster, 16x20 print on 17x22 paper
-
-### 2024-08-20
+**medium:** Epson Ultra Premium Photo Luster, 6x8 print on 8.5x11 (cut to 8x10)
 
 **seeds:**
 
@@ -92,15 +96,13 @@
 0xfb9bc4e4ead065a31cae138c5990107085d307a29baca78e311e2f39619f20a7
 ```
 
-**git:** `main | 4adff67b450d9da653e7229f97f329a540142716`
-
-**medium:** Epson Ultra Premium Photo Luster, 6x8 print on 8.5x11 (cut to 8x10)
-
 ## Digital Installs
 
 ### 2024-09-09 - Artlume.io
 
-Not ownable (unlisted in summary table)
+**git:** `alpha-artlum-4K | a464c04b5968101a946a126a8afc9b951b1c29b6`
+
+**medium:** Artlume.io TV app (digital display) - SaSS, not ownable
 
 **seeds:**
 
@@ -206,7 +208,3 @@ Not ownable (unlisted in summary table)
 0x7e8c80bd7747cd4d1571e06fb78aae2432657564cf00a24b8fd957f9b062826b
 0xfb46dd721fb438fae60ff940608fb6d8fc603bcdcf4ebe7d3bbbf2a81732bfeb
 ```
-
-**git:** `alpha-artlum-4K | a464c04b5968101a946a126a8afc9b951b1c29b6`
-
-**medium:** Artlume.io TV app (digital display)
